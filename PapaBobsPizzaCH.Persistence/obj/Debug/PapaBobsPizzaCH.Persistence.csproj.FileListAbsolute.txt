@@ -1,0 +1,13 @@
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP_070\PapaBobsPizzaCH\PapaBobsPizzaCH.Persistence\bin\Debug\PapaBobsPizzaCH.Persistence.dll
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP_070\PapaBobsPizzaCH\PapaBobsPizzaCH.Persistence\bin\Debug\PapaBobsPizzaCH.Persistence.pdb
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP_070\PapaBobsPizzaCH\PapaBobsPizzaCH.Persistence\obj\Debug\PapaBobsPizzaCH.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP_070\PapaBobsPizzaCH\PapaBobsPizzaCH.Persistence\obj\Debug\PapaBobsPizzaCH.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP_070\PapaBobsPizzaCH\PapaBobsPizzaCH.Persistence\obj\Debug\PapaBobsPizzaCH.Persistence.dll
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP_070\PapaBobsPizzaCH\PapaBobsPizzaCH.Persistence\obj\Debug\PapaBobsPizzaCH.Persistence.pdb
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP_070\PapaBobsPizzaCH\PapaBobsPizzaCH.Persistence\bin\Debug\PapaBobsPizzaCH.DTO.dll
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP_070\PapaBobsPizzaCH\PapaBobsPizzaCH.Persistence\bin\Debug\PapaBobsPizzaCH.DTO.pdb
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP_070\PapaBobsPizzaCH\PapaBobsPizzaCH.Persistence\bin\Debug\PapaBobsPizzaCH.Persistence.dll.config
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP_070\PapaBobsPizzaCH\PapaBobsPizzaCH.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP_070\PapaBobsPizzaCH\PapaBobsPizzaCH.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP_070\PapaBobsPizzaCH\PapaBobsPizzaCH.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP_070\PapaBobsPizzaCH\PapaBobsPizzaCH.Persistence\bin\Debug\EntityFramework.SqlServer.xml

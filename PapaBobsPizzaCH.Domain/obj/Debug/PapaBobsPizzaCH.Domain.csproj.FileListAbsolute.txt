@@ -1,0 +1,13 @@
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP_070\PapaBobsPizzaCH\PapaBobsPizzaCH.Domain\bin\Debug\PapaBobsPizzaCH.Domain.dll
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP_070\PapaBobsPizzaCH\PapaBobsPizzaCH.Domain\bin\Debug\PapaBobsPizzaCH.Domain.pdb
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP_070\PapaBobsPizzaCH\PapaBobsPizzaCH.Domain\obj\Debug\PapaBobsPizzaCH.Domain.csprojResolveAssemblyReference.cache
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP_070\PapaBobsPizzaCH\PapaBobsPizzaCH.Domain\obj\Debug\PapaBobsPizzaCH.Domain.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP_070\PapaBobsPizzaCH\PapaBobsPizzaCH.Domain\obj\Debug\PapaBobsPizzaCH.Domain.dll
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP_070\PapaBobsPizzaCH\PapaBobsPizzaCH.Domain\obj\Debug\PapaBobsPizzaCH.Domain.pdb
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP_070\PapaBobsPizzaCH\PapaBobsPizzaCH.Domain\bin\Debug\PapaBobsPizzaCH.DTO.dll
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP_070\PapaBobsPizzaCH\PapaBobsPizzaCH.Domain\bin\Debug\PapaBobsPizzaCH.Persistence.dll
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP_070\PapaBobsPizzaCH\PapaBobsPizzaCH.Domain\bin\Debug\PapaBobsPizzaCH.DTO.pdb
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP_070\PapaBobsPizzaCH\PapaBobsPizzaCH.Domain\bin\Debug\PapaBobsPizzaCH.Persistence.pdb
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP_070\PapaBobsPizzaCH\PapaBobsPizzaCH.Domain\bin\Debug\EntityFramework.dll
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP_070\PapaBobsPizzaCH\PapaBobsPizzaCH.Domain\bin\Debug\PapaBobsPizzaCH.Persistence.dll.config
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP_070\PapaBobsPizzaCH\PapaBobsPizzaCH.Domain\bin\Debug\EntityFramework.xml

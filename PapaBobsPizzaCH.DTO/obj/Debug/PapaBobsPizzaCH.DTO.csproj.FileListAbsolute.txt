@@ -1,0 +1,6 @@
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP_070\PapaBobsPizzaCH\PapaBobsPizzaCH.DTO\bin\Debug\PapaBobsPizzaCH.DTO.dll
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP_070\PapaBobsPizzaCH\PapaBobsPizzaCH.DTO\bin\Debug\PapaBobsPizzaCH.DTO.pdb
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP_070\PapaBobsPizzaCH\PapaBobsPizzaCH.DTO\obj\Debug\PapaBobsPizzaCH.DTO.csprojResolveAssemblyReference.cache
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP_070\PapaBobsPizzaCH\PapaBobsPizzaCH.DTO\obj\Debug\PapaBobsPizzaCH.DTO.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP_070\PapaBobsPizzaCH\PapaBobsPizzaCH.DTO\obj\Debug\PapaBobsPizzaCH.DTO.dll
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP_070\PapaBobsPizzaCH\PapaBobsPizzaCH.DTO\obj\Debug\PapaBobsPizzaCH.DTO.pdb
